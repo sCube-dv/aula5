@@ -1,0 +1,34 @@
+#p1 {
+    text-align: justify;
+    color: blue;
+    text-indent: 5%;
+    font-family: Arial;
+}
+
+#t1 {
+    text-align: center;
+    color: red;
+}
+
+.botao {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    border: 1px black solid;
+    font-size: 15px;
+    padding: 3px;
+    border-radius: 10px 10px 10px 0;
+}
+
+#p2 {
+    background-color: darkgray;
+}
+
+p button {
+    background-color: green;
+}
+
+#p2 button {
+    color: white;
+}

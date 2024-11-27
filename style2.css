@@ -1,0 +1,32 @@
+#ads {
+    background-color: green;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#d1 {
+    background-color: red;
+    display: inline-block;
+    width: 500px;
+}
+
+#d2 {
+    background-color: green;
+    display: inline-block;
+    width: 250px;
+
+}
+
+#d3 {
+    background-color: blue;
+    display: inline;
+    display: none;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
